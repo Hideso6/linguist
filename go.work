@@ -1,3 +1,12 @@
-go 1.20
+go "project" add name. 1 cat
+open file /android/data/download/22
+*start module /GitHub
+save zip.
+/open
+/save
+*log save /Android/localhost
+/save
 
+ 1.20
+use mobile *44*, o
 use ./tools/grammars
